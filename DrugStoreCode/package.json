@@ -1,0 +1,53 @@
+{
+  "name": "drugstore",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/webpack-config": "^18.0.2",
+    "@react-native-async-storage/async-storage": "^1.18.1",
+    "@react-native-community/geolocation": "^3.0.5",
+    "@react-navigation/bottom-tabs": "^6.5.2",
+    "@react-navigation/drawer": "^6.5.6",
+    "@react-navigation/native": "^6.1.1",
+    "@react-navigation/native-stack": "^6.9.7",
+    "@react-navigation/stack": "^6.3.10",
+    "axios": "^1.3.4",
+    "deprecated-react-native-prop-types": "^4.0.0",
+    "expo": "^48.0.9",
+    "expo-image-picker": "~14.1.1",
+    "expo-location": "~15.1.1",
+    "expo-print": "~12.2.1",
+    "expo-status-bar": "~1.4.4",
+    "moment": "^2.29.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.71.4",
+    "react-native-calendars": "^1.1297.0",
+    "react-native-camera": "^4.2.1",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-html-to-pdf": "^0.12.0",
+    "react-native-linear-gradient": "^2.6.2",
+    "react-native-maps": "1.3.2",
+    "react-native-pdf-lib": "^1.0.0",
+    "react-native-svg": "13.4.0",
+    "react-native-table-component": "^1.2.2",
+    "react-native-vector-icons": "^9.2.0",
+    "react-native-web": "~0.18.9",
+    "react-native-webview": "11.26.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9"
+  },
+  "private": true
+}
