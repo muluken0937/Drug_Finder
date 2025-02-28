@@ -149,7 +149,7 @@
 
 from pathlib import Path
 import os
-import environ
+import environ # type: ignore
 
 # Initialize environment variables
 env = environ.Env()
