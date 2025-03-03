@@ -167,7 +167,7 @@ SECRET_KEY = env('DJANGO_SECRET_KEY')
 DEBUG = True  # or False in production
 
 # Allowed hosts (define directly if you don't want this in .env)
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '192.168.1.9', '10.139.208.219', '192.168.43.215']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '192.168.1.9', '10.139.208.219','192.168.1.11', '192.168.43.215']
 
 # Application definition
 INSTALLED_APPS = [
