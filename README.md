@@ -1,2 +1,2 @@
 # Drug_Finder
-# Drug_Finder
+The system is an online platform that allows patients to easily search for nearby pharmacies stocking the required drugs, view up-to-date pricing and availability, and make informed purchasing decisions. It also helps pharmacies enhance their stock management processes, reducing stockouts and improving customer satisfaction. Furthermore, the platform provides the Health Office with a centralized dashboard to efficiently monitor and manage all pharmacies within the region.
